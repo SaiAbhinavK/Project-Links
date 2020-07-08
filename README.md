@@ -8,5 +8,5 @@
 * *https://saiabhinavk.github.io/drumkit/*
 4. Dicee
 * *https://saiabhinavk.github.io/dicee/*
-5.Simon Game
+5. Simon Game
 * *https://saiabhinavk.github.io/simongame/*
