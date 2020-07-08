@@ -10,3 +10,7 @@
 * *https://saiabhinavk.github.io/dicee/*
 5. Simon Game
 * *https://saiabhinavk.github.io/simongame/*
+6. Changing CSS using JS
+* *https://saiabhinavk.github.io/variablecss/*
+7. Clock
+* *https://saiabhinavk.github.io/Clock/*
